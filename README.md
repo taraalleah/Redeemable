@@ -4,6 +4,8 @@
 
 Redeemable lets you make a handful of cute, customizable tickets, like **1 breakfast in bed**, **1 free favour** or **1 very long hug**, tuck them in an envelope, and send them to your loved ones.
 
+[Try it out!](https://taraalleah.github.io/Redeemable/)
+
 ## How it works
 
 **Sending**
